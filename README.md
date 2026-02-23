@@ -5,3 +5,5 @@ No teclado:
 -> "a": primeira opção
 -> "s": segunda opção
 -> "d": terceira opção
+
+Autores: Guilherme Mendes Goudard, Kevelyn Luanna Luiz Porto, Matheus Victor Barbosa dos Santos
